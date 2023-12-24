@@ -7,3 +7,5 @@ EDA (dataset exploration), extensive visualization and elaboration on dataset ch
 for particular output - visual (eg. plot_tree), LIME, SHAP.
 
 TABLEAU
+
+WordPress, Tableau 
